@@ -1,4 +1,5 @@
 # md2googleslides -- Markdown to Google Slides
+    ![](https://placekitten.com/1600/900){.background}
 
 Generate Google Slides from markdown & HTML. Run from the command line or embed in another
 application.
