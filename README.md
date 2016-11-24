@@ -1,5 +1,4 @@
 # md2googleslides -- Markdown to Google Slides
-    ![](https://placekitten.com/1600/900){.background}
 
 Generate Google Slides from markdown & HTML. Run from the command line or embed in another
 application.
@@ -11,7 +10,7 @@ While it does not yet produce stunningly beautiful decks, you are encouraged to 
 this tool for quickly prototyping presentations.
 
 Contributions are welcome.
-
+    
 ## Installation and usage
 
 For command line use, install md2gslides globally:
